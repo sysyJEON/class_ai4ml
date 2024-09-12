@@ -12,4 +12,5 @@
 - Learn how to apply machine learning techniques using python's scikit-learn.
 
 ## Learning Outcomes
- -
+ - With pandas you can effectively preprocess data and apply machine learning algorithms to the given data.
+ - When you go to the filed and encounter a variety of data, you will develop the ability to analyze it happily without being embarrsed.
